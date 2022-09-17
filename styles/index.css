@@ -19,6 +19,14 @@ body {
   height: 40px;
 }
 
+.home-navigation {
+  background-color: #1d1283;
+  margin: 0;
+  text-align: center;
+  color: #fff;
+  padding: 10px;
+}
+
 #createTask {
   color: white;
   padding-left: 50%;
@@ -36,6 +44,13 @@ body {
 
 button {
   width: 250px;
+}
+
+.home-btn {
+  width: 250px;
+  display: flex;
+  justify-content: center;
+  text-decoration: none;
 }
 
 .create-task-btn {
