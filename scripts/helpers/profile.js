@@ -12,7 +12,7 @@ import {
   DIFF_CLASS,
   OLD_DIFF_CLASS,
   NEW_DIFF_CLASS,
-} from './constants.js';
+} from '../constants/profile.js';
 
 async function getProfileDiffs() {
   try {
